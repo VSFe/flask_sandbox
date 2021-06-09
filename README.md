@@ -1,4 +1,4 @@
-# Flask_Elice
+# Flask_sample
 
 ## 설치 및 실행
 
